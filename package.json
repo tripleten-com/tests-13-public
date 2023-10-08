@@ -24,6 +24,6 @@
     "mongoose": "^6.6.2",
     "shelljs": "^0.8.5",
     "url-regex-safe": "^3.0.0",
-    "wait-port": "^1.0.1"
+    "wait-port": "^1.0.4"
   }
 }
