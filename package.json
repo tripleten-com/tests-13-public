@@ -18,7 +18,7 @@
   "dependencies": {
     "@hexlet/immutable-fs-trees": "^0.7.1",
     "directory-tree": "^3.3.0",
-    "dotenv": "^16.0.1",
+    "dotenv": "^16.3.1",
     "has": "^1.0.3",
     "i18next": "^21.8.14",
     "mongoose": "^6.6.2",
