@@ -20,7 +20,7 @@
     "directory-tree": "^3.3.0",
     "dotenv": "^16.0.1",
     "has": "^1.0.3",
-    "i18next": "^21.8.14",
+    "i18next": "^21.10.0",
     "mongoose": "^6.6.2",
     "shelljs": "^0.8.5",
     "url-regex-safe": "^3.0.0",
