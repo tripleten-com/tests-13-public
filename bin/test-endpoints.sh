@@ -2,7 +2,6 @@
 
 source ./bin/scripts.sh
 
-cd tests-13-public/
-npm install -g newman
+npm install -g newman --loglevel=error --no-fund --no-audit
 timeout 60 bash ./bin/newman.sh
 check $?
